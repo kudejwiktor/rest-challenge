@@ -18,7 +18,7 @@
 `make build`
 
 #### Run application
-`make up`
+`make run`
 
 #### Optional commands
 
