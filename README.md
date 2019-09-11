@@ -6,10 +6,10 @@
 - `sh`
 
 ### Configuration
-1. Create `.env` file:`cp .env.example .env`
-2. Generate application key: `make generate-key`
-3. In `.env` file set generated key to `APP_KEY`
-4. Create `docker-compose.yml` file `cp docker-compose.dist.yml docker-compose.yml`
+1. Create `docker-compose.yml` file `cp docker-compose.dist.yml docker-compose.yml`
+2. Create `.env` file:`cp .env.example .env`
+3. Generate application key: `make generate-key`
+4. In `.env` file set generated key to `APP_KEY`
 5. Change default database settings (for local environment purpose no action required)
 
 ### Setup
